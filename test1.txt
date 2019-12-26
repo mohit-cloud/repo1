@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is FC19-3D19
+
+ Directory of C:\Users\uhear\OneDrive\Desktop\my project
+
+27-12-2019  00:33    <DIR>          .
+27-12-2019  00:33    <DIR>          ..
+27-12-2019  00:33                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  113,943,588,864 bytes free
